@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Unsafe Info</string>
+    <string name="plataforma">Plataforma</string>
+    <string name="senha">Senha</string>
+    <string name="usu_rio">Usuário</string>
+    <string name="plataforma2">Plataforma</string>
+    <string name="usu_rio3">Usuário</string>
+    <string name="senha2">Senha</string>
+    <string name="plataforma4">Plataforma</string>
+    <string name="usu_rio4">Usuário</string>
+    <string name="senha4">Senha</string>
+    <string name="visualizar">Visualizar</string>
+    <string name="configurar">Configurar</string>
+    <string name="inserir_informa_es">Inserir Informações</string>
+    <string name="plataforma5">Plataforma:</string>
+    <string name="inserir_usu_rio">Inserir Usuário</string>
+    <string name="usu_rio5">Usuário:</string>
+    <string name="inserir_plataforma">Inserir Plataforma</string>
+    <string name="digite_sua_senha">Digite Sua Senha</string>
+    <string name="senha7">Senha</string>
+    <string name="insira_sua_senha">Insira Sua Senha</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="digite_sua_senha2">Digite sua senha</string>
+    <string name="insira_sua_senha2">Insira Sua Senha</string>
+    <string name="digite_sua_senha3">Digite Sua Senha</string>
+    <string name="confirmar2">Confirmar</string>
+    <string name="senha8">Senha:</string>
+    <string name="excluir_info8">Excluir Info</string>
+    <string name="excluir_informa_es_sobre8">Excluir Informações Sobre</string>
+    <string name="digite_plataforma">Digite Plataforma</string>
+    <string name="inserir_informa_o">Inserir Informação</string>
+    <string name="inserir_senha">Inserir Senha</string>
+    <string name="senha32">Senha</string>
+    <string name="mudar_senha">Mudar Senha</string>
+    <string name="mudar_senha3">Mudar Senha:</string>
+    <string name="digite_a_nova_senha3">Digite A Nova Senha</string>
+</resources>
