@@ -29,7 +29,7 @@ public class MainActivity5 extends AppCompatActivity {
                 String senha = campoSenha.getText().toString();
                 SharedPreferences sharedPreferences =
                         getSharedPreferences(MainActivity2.ARQUIVO_MEUS_DADOS, Context.MODE_PRIVATE);
-                String senhaConfirmacao = sharedPreferences.getString("senhaAplic", null);
+                String senhaConfirmacao = sharedPreferences.getString("senhaAplic", "padrao");
 
                 if(senha.equals(senhaConfirmacao)){
                     Intent intent = new Intent(MainActivity5.this, MainActivity3.class);
